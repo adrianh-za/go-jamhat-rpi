@@ -27,3 +27,8 @@ This project uses the GPIO library written and maintained by <b><a href="https:/
 ## Gits ##
 
 https://github.com/stianeikeland/go-rpio
+
+## TODO ##
+
+* Maybe in future use Pin Edge Detection to intercept button press/release events.
+* Possibly see if there is a way to use PWM with the buzzer. (software PWM perhaps)
