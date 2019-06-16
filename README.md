@@ -1,4 +1,4 @@
-# JamHat-rpi
+# Go-JamHat-RPi
 
 Simple program written in Go for the JamHat from ModMyPi.  The code is meant to be simple and readable to get a basic understanding of how to interace with the JamHat.  GPIO pin edge detection was not used for button presses, nor was PWM used to buzz the buzzer.
 
