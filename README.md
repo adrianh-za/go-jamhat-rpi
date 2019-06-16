@@ -13,8 +13,8 @@ Python source code for JamHat
 
 ## Usage ##
 
-1) go get github.com/adrianh-za/jamhat-rpi
-2) browse to $/go/src/github.com/adrianh-za/jamhat-rpi
+1) go get github.com/adrianh-za/go-jamhat-rpi
+2) browse to $/go/src/github.com/adrianh-za/go-jamhat-rpi
 3) sudo -E go run main.go
 4) ctrl-c to quit
 
